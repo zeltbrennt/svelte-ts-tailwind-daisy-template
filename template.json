@@ -1,7 +1,7 @@
 {
-  "name": "Long name",
+  "name": "Svelte Typescript Tailwind DaisyUI",
   "shortname": "svelte-ts-tailwind-daisy-template",
-  "author": "",
-  "description": "Description of the template",
-  "helpurl": "URL for help with the template, eg homepage"
+  "author": "zeltbrennt",
+  "description": "A templete using Svelte v5, Tailwind v4 and DaisyUI v5",
+  "helpurl": "https://github.com/zeltbrennt/svelte-ts-tailwind-daisy-template"
 }
