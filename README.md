@@ -2,7 +2,7 @@
 
 ## About
 
-About your template
+A template with Svelte v5, Tailwind v4, and DaisyUI v5
 
 ## Live Development
 
